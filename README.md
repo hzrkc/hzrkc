@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C**
 
-- 📫 How to reach me **hazark41@gmail.com** 
+- 📫 How to reach me **hazark41@gmail.com** <img src="https://github.com/hzrkc/hzrkc/blob/main/Gmail%20for%20iOS%20-%20Animated%20Icon.gif?raw=true" width="40" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
