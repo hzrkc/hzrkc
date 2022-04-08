@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unity,Python,C#**
 
-- 💬 Ask me about **C, Java**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **hazark41@gmail.com**
 
