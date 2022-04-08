@@ -7,7 +7,9 @@
 <img src="https://github.com/hzrkc/hzrkc/blob/main/gifs/gif_final.gif?raw=true" alt="gmail" width="40" />
 </p>
 
-<h3 align="center">How to reach me: **hazark41@gmail.com**</h3>
+<h3 align="center">How to reach me: hazark41@gmail.com</h3>
+
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzrkc&label=Profile%20views&color=0e75b6&style=flat" alt="hzrkc" /> </p>
 
