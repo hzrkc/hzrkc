@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/hazark41" target="blank"><img src="https://img.shields.io/twitter/follow/hazark41?logo=twitter&style=for-the-badge" alt="hazark41" /></a> </p>
 
-- 🌱 I’m currently learning **Unity,Python,C#**
+- 🌱 I’m currently learning **Unity,Python**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C,C#**
 
 
 <h3 align="left">Connect with me:</h3>
