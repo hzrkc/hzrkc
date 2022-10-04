@@ -43,7 +43,7 @@
 <a href="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/java-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzrkc&show_icons=true&locale=en&layout=compact" alt="hzrkc" /></p>
+[//]: <> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzrkc&show_icons=true&locale=en&layout=compact" alt="hzrkc" /></p>
 
 
 </a> </p>
@@ -66,6 +66,6 @@
 </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzrkc&show_icons=true&locale=en" alt="hzrkc" /></p>
+[//]: <> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzrkc&show_icons=true&locale=en" alt="hzrkc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzrkc&" alt="hzrkc" /></p>
