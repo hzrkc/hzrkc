@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazar</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<br/>
-
 <h3 align="center">How to reach me: hazark41@gmail.com</h3>
 
 <br/>
