@@ -3,10 +3,6 @@
 
 <br/>
 
-<p align="center">
-<img src="https://github.com/hzrkc/hzrkc/blob/main/gifs/gif_final.gif?raw=true" alt="gmail" width="40" />
-</p>
-
 <h3 align="center">How to reach me: hazark41@gmail.com</h3>
 
 <br/>
