@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/hazarkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/linked-in-alt.svg" alt="hazarkoc" height="30" width="40" /></a>
 <a href="https://fb.com/hzrk41" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/facebook.svg" alt="hzrk41" height="30" width="40" /></a>
 <a href="https://instagram.com/hzr.kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/instagram.svg" alt="hzr.kc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hazark41" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/hackerrank.svg" alt="hazark41" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
