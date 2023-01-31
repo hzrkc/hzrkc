@@ -41,14 +41,10 @@
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a>
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-</a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
