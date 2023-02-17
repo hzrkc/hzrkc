@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hazark41" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/twitter.svg" alt="hazark41" height="30" width="40" /></a>
+<a href="https://twitter.com/hazarkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/twitter.svg" alt="hazark41" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hazarkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/linked-in-alt.svg" alt="hazarkoc" height="30" width="40" /></a>
 <a href="https://fb.com/hzrkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/facebook.svg" alt="hzrk41" height="30" width="40" /></a>
 <a href="https://instagram.com/hzr.kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/hzrkc/hzrkc/main/images/instagram.svg" alt="hzr.kc" height="30" width="40" /></a>
