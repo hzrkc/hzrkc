@@ -16,13 +16,8 @@
 - 🌱 I’m currently learning **Unity, Python**
 - 💬 Ask me about **C, C#**
 
-## 🧑‍💻 My Work
-- **Paladyum Elektronik Ödeme (PeP)**:
-  - *June 2023 - March 2024*: Full-Stack Developer focusing on fintech solutions. Developed a mobile wallet app used by 1.5M users.
-- **AISPHERE**:
-  - *April 2023 - December 2023*: Jr. Software Developer, contributed to an AI marketplace using React and FASTApi.
-- **Kocaeli University**:
-  - *June 2022 - April 2023*: Part-time developer, enhanced university applications using .NET Core and MSSQL.
+## 🎮 Play My Mini-Game
+<iframe src="https://gabrielecirulli.github.io/2048/" width="300" height="400"></iframe>
 
 ## 🛠 Technologies
 <p align="left">
