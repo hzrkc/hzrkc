@@ -16,9 +16,6 @@
 - 🌱 I’m currently learning **Unity, Python**
 - 💬 Ask me about **C, C#**
 
-## 🎮 Play My Mini-Game
-<iframe src="https://gabrielecirulli.github.io/2048/" width="300" height="400"></iframe>
-
 ## 🛠 Technologies
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" /></a>
