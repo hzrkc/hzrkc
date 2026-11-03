@@ -1,20 +1,21 @@
 ## Hazar Koç
 
-Backend developer in Istanbul, Turkey. I build APIs, background workers and the
-infrastructure around them, and I ship full-stack products of my own.
+**Backend Developer** · Kocaeli, Turkey
 
-- Backend developer at **RTC**, previously at **PeP**
-- B.Eng. in Computer Engineering, Kocaeli University
-- Interested in event-driven architecture, reliable background work and clean, testable code
+I design and build backend systems: APIs, background processing, messaging and
+data layers, with a focus on reliability, maintainability and testability.
 
-### What I'm working on
+- **Backend Developer** at RTC (previously at PeP)
+- **M.Sc. student**, Information Technologies, Yıldız Technical University
+- **B.Eng.**, Computer Engineering, Kocaeli University
 
-**VennyV** (private): the website and platform for a FiveM roleplay community.
-Next.js and React on the frontend, NestJS with Prisma, MariaDB and Redis on the
-backend, running on Ubuntu behind Nginx and Cloudflare. I build and run it end to
-end: auth and roles, an outbox for side effects, integration tests, CI and deploys.
+### Current work
 
-### Stack
+**VennyV** (private): an end-to-end web platform for an online gaming community,
+built and operated by me. Next.js and React on the frontend; NestJS, Prisma,
+MariaDB and Redis on the backend; deployed on Ubuntu behind Nginx and Cloudflare.
+
+### Technologies
 
 ![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-1f2328?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white)
@@ -30,14 +31,14 @@ end: auth and roles, an outbox for side effects, integration tests, CI and deplo
 
 ### Selected projects
 
-| Project | What it is |
+| Project | Description |
 | --- | --- |
-| [E-Commerce](https://github.com/hzrkc/E-Commerce) | Event-driven order backend in .NET 8: API and worker over RabbitMQ, Redis caching, PostgreSQL, JWT, xUnit tests |
-| [KOU-WebScraping-YazLab1](https://github.com/hzrkc/KOU-WebScraping-YazLab1) | Collects product data from Turkish e-commerce sites and tracks it on your own site |
-| [KOU-Multithreading-YazLab2](https://github.com/hzrkc/KOU-Multithreading-YazLab2) | Multithreaded similarity scoring over CSV data, with a GUI |
-| [KOU-AndroidApp-Yazlab3](https://github.com/hzrkc/KOU-AndroidApp-Yazlab3) | Memory game for Android, written in Kotlin |
-| [BankManagementSystem](https://github.com/hzrkc/BankManagementSystem) | C# Windows Forms banking app on PostgreSQL |
+| [E-Commerce](https://github.com/hzrkc/E-Commerce) | Event-driven order backend in .NET 8: API and worker communicating over RabbitMQ, Redis caching, PostgreSQL, JWT authentication, xUnit tests |
+| [KOU-WebScraping-YazLab1](https://github.com/hzrkc/KOU-WebScraping-YazLab1) | Product data collection from major Turkish e-commerce sites, with tracking on a custom site |
+| [KOU-Multithreading-YazLab2](https://github.com/hzrkc/KOU-Multithreading-YazLab2) | Multithreaded similarity analysis over CSV data, with a desktop GUI |
+| [KOU-AndroidApp-Yazlab3](https://github.com/hzrkc/KOU-AndroidApp-Yazlab3) | Android memory game written in Kotlin |
+| [BankManagementSystem](https://github.com/hzrkc/BankManagementSystem) | Banking management desktop application in C# Windows Forms with PostgreSQL |
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/hazarkoc) · [Email](mailto:hazark41@gmail.com) · [X / Twitter](https://twitter.com/hazarkoc)
+[LinkedIn](https://linkedin.com/in/hazarkoc) · [Email](mailto:hazark41@gmail.com)
