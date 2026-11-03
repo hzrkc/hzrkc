@@ -1,6 +1,6 @@
 ## Hazar Koç
 
-**Full-Stack Developer** · Kocaeli, Turkey
+**Full-Stack Developer** · Istanbul, Turkey
 
 I build and run products end to end, from the interface and API to the data
 layer and deployment, with a focus on reliability, maintainability and testability.
