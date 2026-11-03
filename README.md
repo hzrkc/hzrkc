@@ -1,6 +1,6 @@
 ## Hazar Koç
 
-Backend developer in Kocaeli, Turkey. I build APIs, background workers and the
+Backend developer in Istanbul, Turkey. I build APIs, background workers and the
 infrastructure around them, and I ship full-stack products of my own.
 
 - Backend developer at **RTC**, previously at **PeP**
