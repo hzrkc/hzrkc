@@ -1,11 +1,11 @@
 ## Hazar Koç
 
-**Backend Developer** · Istanbul, Turkey
+**Full-Stack Developer** · Kocaeli, Turkey
 
-I design and build backend systems: APIs, background processing, messaging and
-data layers, with a focus on reliability, maintainability and testability.
+I build and run products end to end, from the interface and API to the data
+layer and deployment, with a focus on reliability, maintainability and testability.
 
-- **Backend Developer** at RTC (previously at PeP)
+- **Backend Developer** at RTC
 - **M.Sc. student**, Information Technologies, Yıldız Technical University
 - **B.Eng.**, Computer Engineering, Kocaeli University
 
