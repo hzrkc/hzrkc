@@ -1,6 +1,6 @@
 ## Hazar Koç
 
-**Backend Developer** · Kocaeli, Turkey
+**Backend Developer** · Istanbul, Turkey
 
 I design and build backend systems: APIs, background processing, messaging and
 data layers, with a focus on reliability, maintainability and testability.
